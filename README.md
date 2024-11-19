@@ -1,6 +1,6 @@
 # Real Estate Platform
 
-A **feature-rich real estate application** built with **Node.js** and **Express.js**. This platform enables users to search, view, and manage rental properties, communicate with customers, and securely authenticate their accounts.
+A **Find Real Estate And Get Your Dream Place** built with **Node.js** and **Express.js**. This platform enables users to search, view, and manage rental properties, communicate with customers, and securely authenticate their accounts.
 
 ---
 
@@ -32,7 +32,7 @@ A **feature-rich real estate application** built with **Node.js** and **Express.
 ### 1. Home Page  
 The home page provides an intuitive interface to filter properties by selecting a location and setting a price range.
 
-![Home Page](assets/screenshots/home-page-screenshot.png)  
+![Home Page](home_page.png)  
 *Figure: Home page showcasing location filters and price range selection.*
 
 ---
@@ -40,7 +40,8 @@ The home page provides an intuitive interface to filter properties by selecting 
 ### 2. View Rental Homes  
 A detailed view of rental homes based on the selected location and price range.
 
-![View Rental Homes](assets/screenshots/view-rental-homes-screenshot.png)  
+![View Rental Homes](view_homes.png)  
+![View Rental Homes](view_home2.png)  
 *Figure: Detailed view of properties filtered by location and price.*
 
 ---
@@ -51,13 +52,13 @@ The login page allows users to sign in or register.
 #### 3.1 Already Signed Up  
 Users can log in directly if they have an account.
 
-![Login - Already Signed Up](assets/screenshots/login-already-signedup-screenshot.png)  
+![Login - Already Signed Up](login_page.png)  
 *Figure: Login page for registered users.*
 
 #### 3.2 Not Signed Up  
 New users can navigate to the registration page.
 
-![Login - Not Signed Up](assets/screenshots/login-not-signedup-screenshot.png)  
+![Login - Not Signed Up](login_page2.png)  
 *Figure: Login page with an option to register.*
 
 ---
@@ -65,7 +66,8 @@ New users can navigate to the registration page.
 ### 4. Create Rental Home Details  
 Users can add new rental home listings by filling out details such as location, price, and description. Image uploads are also supported.
 
-![Create Rental Home](assets/screenshots/create-rental-home-screenshot.png)  
+![Create Rental Home](Add_New_Data.png) 
+![Create Rental Home](created_New_Data.png)
 *Figure: Page to create new rental home listings.*
 
 ---
@@ -73,7 +75,7 @@ Users can add new rental home listings by filling out details such as location, 
 ### 5. Chat with Customers  
 A real-time chat interface for seamless communication between users and customers regarding property details.
 
-![Chat with Customers](assets/screenshots/chat-with-customers-screenshot.png)  
+![Chat with Customers](Chat_Img.png)  
 *Figure: Chat feature for direct interaction with customers.*
 
 ---
