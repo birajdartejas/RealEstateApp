@@ -52,13 +52,13 @@ The login page allows users to sign in or register.
 #### 3.1 Already Signed Up  
 Users can log in directly if they have an account.
 
-![Login - Already Signed Up](login_page.png)  
+![Login - Already Signed Up](login_page2.png)  
 *Figure: Login page for registered users.*
 
 #### 3.2 Not Signed Up  
 New users can navigate to the registration page.
 
-![Login - Not Signed Up](login_page2.png)  
+![Login - Not Signed Up](login_page.png)  
 *Figure: Login page with an option to register.*
 
 ---
