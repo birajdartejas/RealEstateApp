@@ -54,3 +54,14 @@ Make sure you have the following installed:
    ```bash
    git clone https://github.com/your-username/real-estate-app.git
    cd real-estate-app
+
+   # Real Estate Project
+
+## Home Page
+
+The home page allows users to filter properties by location and set a price range (minimum to maximum).
+
+![Home Page](home_page.png)
+*Figure: Home page showcasing location filters and price range selection.*
+
+
