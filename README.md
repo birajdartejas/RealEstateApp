@@ -64,4 +64,11 @@ The home page allows users to filter properties by location and set a price rang
 ![Home Page](home_page.png)
 *Figure: Home page showcasing location filters and price range selection.*
 
+#### 2. View Rental Homes
+Users can view rental homes based on the selected location and price range. This page provides a detailed view of the properties matching the user's criteria.
+
+![View Rental Homes](view_homes.png)  
+![View Rental Homes](view_home2.png)  
+*Figure: Detailed view of rental homes filtered by location and price.*
+
 
