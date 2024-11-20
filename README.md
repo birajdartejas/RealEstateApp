@@ -1,4 +1,4 @@
-# Real Estate Platform
+# Find Real Estate And Get Your Dream Place
 
 A **Find Real Estate And Get Your Dream Place** built with **Node.js** and **Express.js**. This platform enables users to search, view, and manage rental properties, communicate with customers, and securely authenticate their accounts.
 
